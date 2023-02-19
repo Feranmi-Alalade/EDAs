@@ -1,0 +1,301 @@
+Date,Name of Customer,Time of Order,Expected Time out,Expected Time of Delivery,Time Out Update,Why was the Order not Dispatched in 30mins?,Action Taken,New Expected Time Out,New Expected Time of Delivery,Discount Type,Discount Amount,Mode of Payment,Delivery Status,Actual Time Of Delivery,Duration(minutes),Customer Type,Token pack(boneless beef),Token Pack (Cow Tail),Token Pack (Cow Hump),Token Pack (Cow Head & Neck),Token Pack (Cow Leg),Token Pack (Agemawo),Token Pack (Cow Assorted),Token Pack (Pomo),Token Pack (Cow Minced Meat),Token Pack (Shaki & Roundabout),Value Pack (Agemawo),Value Pack (Boneless Beef),Value Pack (Cow Head & Neck),Value Pack (Cow Hump),Value Pack (Cow Assorted),Token Pack (Goat Meat),Token Pack (Goat Assorted),Token Pack (Head & Leg),Value Pack (Goat Meat),Value Pack (Chicken),Token Pack (Chicken Gizzard),Token Pack (Chicken),Value Pack (Titus),Token Pack (Hake),Value Pack (Hake),Token Pack (Titus),Value Pack (Cow Tongue),Agemawo 1kg,Boneless Beef 1kg,Goat Meat 1kg,Hake 1kg,Hake 1kg (Cleaned),Titus 1kg,Titus 1kg (Cleaned),Chicken 1kg,Cow Head & Neck 1kg,Naira Value,Fulfilment Center
+07/06/2022 00:00,Mr Ojo Olukunle,17:05,17:35,18:35,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3185,Bashorun
+26/07/2022 00:00,Mrs Adedokun,11:43,12:13,13:13,Gone,,,,,No Discount,,Cash,Delivered,11:50,7,Old Customer,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Akobo
+20/08/2022 00:00,Kemi,11:49,12:19,14:19,Gone,,,,,No Discount,,Cash,Delivered,13:05,76,Old Customer,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2340,Aleshinloye
+12/08/2022 00:00,Omotayo A.,11:43,12:13,13:13,Gone,,,,,No Discount,,Transfer,Delivered,12:20,37,Old Custome,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Onikolobo
+03/06/2022 00:00,Osasu,14:37,15:07,17:07,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Alakia
+21/06/2022 00:00,Casby,14:46,15:16,17:16,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Felele
+29/08/2022 00:00,comfort,12:42,13:12,14:12,Gone,,,,,No Discount,,Transfer,Delivered,13:24,42,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,7410,Ologuneru
+04/06/2022 00:00,Mrs Tosin,16:49,17:19,19:19,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7020,Felele
+04/06/2022 00:00,Mrs Oladosu,14:59,15:29,17:29,Gone,,,,,No Discount,,Cash,Delivered,15:55,56,Old Customer,,,,2,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6500,Aleshinloye
+04/06/2022 00:00,Mr valentine,10:23,10:53,11:53,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Ologuneru
+24/07/2022 00:00,Ifedayo Akinyadenu,13:17,13:47,14:47,Gone,,,,,No Discount,,Cash,Delivered,,,Old Customer,,,,,,1,,,,,,,,,,,,,,,,1,,,5,,,,,,,,,,,,15600,Aleshinloye
+19/08/2022 00:00,Divine DSR,16:20,16:50,18:50,,,,,,No Discount,,Cash,Pickup,,,Bicycle Op,,1,,,,1,1,,,,,,,,1,,,,,1,,,,1,1,,1,,,,,,,,,,14040,Apata
+09/08/2022 00:00,Kelvin Nongob,14:23,14:53,15:53,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2340,Bashorun
+02/09/2022 00:00,MD,10:51,11:21,12:21,Gone,,,,,No Discount,,Cash,Delivered,11:52,61,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2470,Omi-Adio
+05/08/2022 00:00,Mr Olaolu,10:24,10:54,12:54,Gone,,,,,No Discount,,Cash,Delivered,10:49,25,Old Customer,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Alakia
+21/07/2022 00:00,Mrs Ayodeji,17:20,17:50,18:50,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Akobo
+02/07/2022 00:00,Mrs Oyekunle,11:59,12:29,14:29,Yet to Go,No Rider,Informed the customer,13:29,14:29,No Discount,,Cash,Delivered,12:42,43,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+30/04/2022 00:00,Waheed Abiodun Abass,01:38,02:08,04:08,Gone,,,,,,,Cash,Delivered,02:52,74,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,Apata
+21/08/2022 00:00,Prince John,11:17,11:47,12:47,Gone,,,,,No Discount,,Cash,Delivered,,,Old Customer,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,2340,Bashorun
+15/08/2022 00:00,Femira,13:59,14:29,16:29,Gone,,,,,No Discount,,Transfer,Delivered,14:20,21,Old Customer,,,,,,2,2,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,7020,Apata
+01/06/2022 00:00,Mrs Babatolu,14:22,14:52,16:52,Yet to Go,No Rider,Called customer,15:52,16:52,No Discount,,Cash,Delivered,16:14,112,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+27/06/2022 00:00,Ideraoluwa,12:48,13:18,15:18,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Apata
+20/07/2022 00:00,Mrs Popoola,15:06,15:36,17:36,Gone,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,2600,Felele
+11/05/2022 00:00,,03:01,03:31,05:31,Gone,,,,,No Discount,,Cash,Delivered,04:33,92,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2730,Felele
+04/07/2022 00:00,Mrs Sanusi,10:54,11:24,13:24,,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Omi-Adio
+16/07/2022 00:00,Ammansco,10:09,10:39,11:39,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1300,UI
+17/06/2022 00:00,Deborah,17:15,17:45,18:45,Yet to Go,Time Specified by Customers,Deliver by 5pm,18:45,19:45,No Discount,,Transfer,Delivered,17:30,15,Old Customer,1,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,3575,Bashorun
+17/06/2022 00:00,Mrs Bamidele,13:43,14:13,16:13,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Apata
+30/08/2022 00:00,Mum Tofunmi,11:57,12:27,13:27,Gone,,,,,No Discount,,Cash,Delivered,12:26,29,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,2340,Apata
+0202-06-28 0:00:00,Olasemeji Temilola,12:20,12:50,13:50,Gone,,,,,No Discount,,Cash,Delivered,12:55,35,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3185,UI
+1899-12-30 0:00:00,Jumoke,11:38,12:08,14:08,Gone,,,,,No Discount,,Cash,Delivered,12:15,37,New Customer,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,3900,Alakia
+1899-12-30 0:00:00,Tabitha,13:20,13:50,14:50,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,2340,Ologuneru
+28/05/2022 00:00,Adeleke Aderonke,09:00,09:30,11:30,Gone,,,,,No Discount,,Transfer,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33735,Aleshinloye
+24/06/2022 00:00,Mrs Oyewole,16:41,17:11,18:11,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4680,Bashorun
+17/08/2022 00:00,Paul,16:12,16:42,17:42,,,,,,No Discount,,Transfer,Pickup,,,Old Custome,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,4680,Bashorun
+12/04/2022 00:00,Excellent Lawal,01:32,02:02,04:02,Yet to Go,Unable to Reach Customer,called customer,03:02,05:02,No Discount,,,Cancelled,,,Old Custome,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Felele
+24/04/2022 00:00,Ayotunde,02:00,02:30,04:30,Gone,,,,,,,Cash,Delivered,03:24,84,Old Custome,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7020,Aleshinloye
+30/04/2022 00:00,Mrs Adebayo,03:51,04:21,06:21,Gone,,,,,,,Cash,Delivered,06:08,137,Old Custome,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+06/05/2022 00:00,Mr Isaac,10:56,11:26,13:26,Gone,,,,,,,Cash,Delivere,12:21,85,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Olorunsogo
+19/05/2022 00:00,Mr Solomon,13:57,14:27,16:27,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,Felele
+09/06/2022 00:00,Jumoke,14:15,14:45,16:45,Yet to Go,No Rider,Called Rider,15:45,17:45,No Discount,,Transfer,Delivered,15:16,61,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7020,Felele
+11/05/2022 00:00,Mrs Oladele,12:09,12:39,14:39,Yet to Go,No Rider,Called the rider,13:39,15:39,No Discount,,Transfer,Delivered,02:00,111,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65260,Felele
+11/06/2022 00:00,Mrs Elegbede,17:29,17:59,19:59,,,,,,No Discount,,Cash,Picku,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3185,Omi-Adio
+27/06/2022 00:00,Olayemi Sola Oluleye,10:50,11:20,12:20,Yet to Go,No Rider,Notified the customer,12:20,13:20,No Discount,,Transfer,Delivered,11:59,69,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6760,UI
+03/08/2022 00:00,Oladimeji Felicia,16:47,17:17,19:17,Gone,,,,,No Discount,,Cash,Delivered,17:27,40,Old Customer,,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2340,Alakia
+31/08/2022 00:00,Mrs Ihebuzor ,11:59,12:29,13:29,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,2340,Aleshinloye
+10/09/2022 00:00,Mrs Sarah,09:00,09:30,10:30,Gone,,,,,No Discount,,Cash,Delivered,09:15,15,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2470,Bashorun
+07/07/2022 00:00,Owode Lanre,15:49,16:19,18:19,Gone,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Felele
+30/07/2022 00:00,King Lolu,10:51,11:21,12:21,Yet to Go,Product not Available,Called the Customer,12:21,13:21,No Discount,,Transfer,Delivered,11:10,19,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,2340,UI
+06/07/2022 00:00,Adedoyin Oluwatomi,13:19,13:49,15:49,Gone,,,,,No Discount,,Transfer,Delivered,13:53,34,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Apata
+29/04/2022 00:00,funmilayo,10:45,11:15,13:15,Gone,,,,,,,Transfer,Delivered,12:52,127,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+20/05/2022 00:00,Tawafe,17:03,17:33,19:33,Gone,,,,,No Discount,,Transfer,Delivered,18:02,59,Retail,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,2600,Olorunsogo
+30/04/2022 00:00,Tosin,12:40,13:10,14:10,,,,,,,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4615,Bashorun
+10/08/2022 00:00,Yetunde,10:10,10:40,11:40,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,2340,UI
+14/04/2022 00:00,Mum Shina,10:08,10:38,12:38,Gone,,,,,No Discount,,,Delivered,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Apata
+11/07/2022 00:00,Mrs owolabi,09:44,10:14,11:14,Gone,,,,,No Discount,,Cash,Delivered,09:50,6,Old Customer,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,13000,Ologuneru
+27/05/2022 00:00,Abraham,14:47,15:17,17:17,Yet to Go,No Rider,Called the  customer,16:17,17:17,No Discount,,Transfer,Delivered,16:14,87,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Apata
+26/04/2022 00:00,Olamide,10:57,11:27,12:27,,,,,,,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2210,Bashorun
+11/06/2022 00:00,Mrs Adekunle,17:21,17:51,18:51,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Akobo
+26/08/2022 00:00,Mr Bimbo,17:29,17:59,19:59,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+26/04/2022 00:00,Ayomide Oladipupo,01:32,02:02,03:02,Gone,,,,,,,Transfer,Delivered,02:16,44,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6760,UI
+16/05/2022 00:00,Mr John,04:00,04:30,05:30,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2730,Bashorun
+27/07/2022 00:00,Mrs Adeleke,13:11,13:41,14:41,Gone,,,,,No Discount,,Transfer,Delivered,13:47,36,Old Customer,,,,,,,,,,,,,,,,,,,,,1,,,,,1,,,,,,,,,,,2340,Akobo
+03/05/2022 00:00,Tawafe,09:08,09:38,11:38,Gone,,,,,,,Transfer,Delivered,11:00,112,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Olorunsogo
+19/08/2022 00:00,Mrs Olawuyi,18:38,19:08,20:08,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,3640,Bashorun
+06/09/2022 00:00,Lola Adegbite ,15:12,15:42,16:42,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,4940,Ologuneru
+09/07/2022 00:00,Ajao Mariam,14:01,14:31,15:31,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Bashorun
+14/05/2022 00:00,Mrs Adigun,05:00,05:30,07:30,Gone,,,,,No Discount,,Transfer,Delivered,18:07,67,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+30/08/2022 00:00,Waliyat Olabisi,10:16,10:46,11:46,Gone,,,,,No Discount,,Cash,Delivered,10:21,5,Old Customer,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,2340,Apete
+23/06/2022 00:00,Mr Abolade,11:03,11:33,13:33,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+15/04/2022 00:00,Adebankin,,,,,,,,,No Discount,,,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Apata
+14/05/2022 00:00,T square,12:17,12:47,14:47,Yet to Go,No Rider,Called the customer /rider,13:47,15:47,No Discount,,Cash,Delivered,13:42,85,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5655,Felele
+17/06/2022 00:00,Mr Kazeem,17:23,17:53,19:53,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Alakia
+30/07/2022 00:00,Mrs Adelowo,11:44,12:14,14:14,,,,,,No Discount,,POS,Pickup,,,Old Custome,,,,,,,,,,,,1,,,,,,,,3,,,,,,,,,,,,,,,,,9360,Alakia
+03/09/2022 00:00,Olugbuyi C.O,16:50,17:20,18:20,Gone,,,,,No Discount,,Transfer,Delivered,17:20,30,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,6890,Apata
+27/05/2022 00:00,Patience Oriala,10:54,11:24,12:24,Yet to Go,Product not Available,Suggested alternatives,12:24,13:24,No Discount,,Cash,Delivered,12:43,109,Old Customer,1,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6760,UI
+01/09/2022 00:00,Seunfunmi Adegoke,11:34,12:04,13:04,Gone,,,,,No Discount,,Transfer,Delivered,11:40,6,Old Customer,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Akobo
+18/06/2022 00:00,Mum Jamal,15:27,15:57,16:57,Gone,,,,,No Discount,,Cash,Delivered,16:00,33,New Customer,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Bashorun
+03/09/2022 00:00,Mrs Oyakhilome ,16:00,16:30,17:30,Gone,,,,,No Discount,,Cash,Delivere,16:33,33,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,3770,UI
+03/06/2022 00:00,Temidayo,14:25,14:55,15:55,Yet to Go,No Rider,called the customer,15:55,16:55,No Discount,,Cash,,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,UI
+20/04/2022 00:00,Lawal Hasfat Arike,12:54,13:24,14:24,Gone,,,,,,,,,,,Old Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4680,UI
+29/07/2024 00:00,Mr salako,10:11,10:41,11:41,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,1,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,5850,Ologuneru
+19/07/2022 00:00,Akorede,13:18,13:48,15:48,Gone,,,,,No Discount,,Transfer,Delivered,13:40,22,Old Customer,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,2600,Apata
+10/08/2022 00:00,Mrs Ogunneye,17:00,17:30,18:30,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Abiola Way
+24/08/2022 00:00,Lawal Quadri,15:31,16:01,17:01,Gone,,,,,No Discount,,Transfer,Delivered,15:42,11,New Customer,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,,,,,,4940,Akobo
+21/05/2022 00:00,Ayo,15:10,15:40,17:40,,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Apata
+18/07/2022 00:00,Manager,16:07,16:37,17:37,,,,,,No Discount,,POS,Pickup,,,Old Customer,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Akobo
+19/08/2022 00:00,Mr Folorunsho,10:43,11:13,13:13,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2470,Olorunsogo
+27/04/2022 00:00,Ola,10:53,11:23,13:23,Gone,,,,,,,Cash,Delivered,11:55,62,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5980,Olorunsogo
+07/07/2022 00:00,Akadri Temitope,10:00,10:30,11:30,Gone,,,,,No Discount,,Cash,Delivered,10:44,44,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Ologuneru
+23/05/2022 00:00,Mummy Malik,14:39,15:09,17:09,Gone,,,,,No Discount,,Cash,Delivered,14:59,20,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Felele
+05/08/2022 00:00,Tolulope,11:03,11:33,13:33,Yet to Go,No Rider,Called customer,12:33,13:33,No Discount,,Transfer,Delivered,11:54,51,Old Customer,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,,,,,,,,4680,Alakia
+12/07/2022 00:00,Mrs Adeleke,13:53,14:23,16:23,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1300,Apata
+21/06/2022 00:00,Ideraoluwa,10:45,11:15,13:15,,,,,,No Discount,,Transfer,Picku,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Apata
+20/05/2022 00:00,Mrs Aluko,15:04,15:34,17:34,Gone,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Aleshinloye
+15/07/2022 00:00,Mr Yemi,16:18,16:48,17:48,Gone,,,,,No Discount,,Transfer,Delivered,16:43,25,Old Customer,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,2600,UI
+18/05/2022 00:00,meaty foods,11:41,12:11,14:11,Gone,,,,,No Discount,,Cash,Delivered,12:37,56,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Aleshinloye
+29/07/2022 00:00,Debbie o law,12:09,12:39,13:39,Gone,,,,,No Discount,,Cash,Delivered,12:40,31,Old Customer,,,1,1,,,,,,2,,,,,,,,,,1,1,,,,,,,,,,,,,,,,8190,Ologuneru
+20/05/2022 00:00,Funmilayo,12:39,13:09,14:09,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10790,UI
+26/07/2022 00:00,Omar's Kitchen,15:38,16:08,18:08,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,2340,Felele
+23/08/2022 00:00,Mr Toheeb,14:20,14:50,16:50,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,3770,Apata
+13/04/2022 00:00,Elizabeth,03:59,04:29,06:29,Yet to Go,No Rider,,05:29,06:29,,,,,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Aleshinloye
+18/08/2022 00:00,Mrs amoda,12:07,12:37,13:37,Gone,,,,,No Discount,,Transfer,Delivered,12:27,20,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,3510,Ologuneru
+30/07/2022 00:00,Mrs Ajayi,11:41,12:11,13:11,Gone,,,,,No Discount,,Transfer,Delivered,12:13,32,Old Customer,,,,,2,2,,,,,,,,,1,,,,,,,4,,3,,,,,,,,,,,,,15210,Akobo
+13/08/2022 00:00,Mama Chi cool spot,15:40,16:10,17:10,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,7020,UI
+03/06/2022 00:00,Mr Bolaji,13:40,14:10,15:10,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Bashorun
+11/06/2022 00:00,No name,16:39,17:09,18:09,Gone,Weather Condition,Notified the Customer,,,No Discount,,Cash,Delivered,17:27,48,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+11/06/2022 00:00,Yeyeoge,09:00,09:30,11:30,Yet to Go,Product not Available,Called customer,10:30,11:30,No Discount,,Cash,Delivered,11:30,150,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Apata
+21/06/2022 00:00,Wale,13:42,14:12,16:12,Gone,,,,,No Discount,,Cash,Delivered,14:12,30,New Custome,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8450,Apata
+12/04/2022 00:00,Aderonke,12:12,12:42,14:42,Gone,,,,,No Discount,,,Delivere,01:35,83,Old Customer,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,4485,Felele
+04/06/2022 00:00,Mr Ayotunde,10:26,10:56,11:56,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Ologuneru
+15/08/2022 00:00,Golden,14:26,14:56,15:56,Gone,,,,,No Discount,,Cash,Delivered,14:44,18,Old Customer,,2,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,3510,Apete
+26/08/2022 00:00,Opeyemi,15:55,16:25,18:25,Yet to Go,No Rider,Notified the customer,17:25,18:25,No Discount,,Cash,Delivered,16:47,52,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1170,Apata
+22/07/2022 00:00,Dara,14:34,15:04,16:04,Gone,,,,,No Discount,,Transfer,Delivered,14:57,23,Old Customer,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2600,UI
+01/07/2022 00:00,Mrs Sulyman,16:23,16:53,17:53,Gone,,,,,No Discount,,Cash,Delivered,16:40,17,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Ologuneru
+19/05/2022 00:00,Mrs omoyayi,14:47,15:17,17:17,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2730,Alakia
+16/04/2022 00:00,Mrs Yvonnegold,01:32,02:02,04:02,Yet to Go,Product not Available,called the inventory/ customer,03:02,05:02,No Discount,,,Delivered,04:56,204,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3900,Felele
+10/08/2022 00:00,Bash,16:27,16:57,17:57,Gone,,,,,No Discount,,Cash,Delivered,17:45,78,Old Customer,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Bashorun
+27/04/2022 00:00,Mal,10:22,10:52,12:52,Yet to Go,Product not Available,Called the inventory /customer,11:52,13:52,No Discount,,Transfer,Delivered,02:36,254,Old Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Felele
+30/04/2022 00:00,miss shade,09:06,09:36,11:36,Gone,,,,,,,Cash,Delivered,11:20,134,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32825,Aleshinloye
+17/05/2022 00:00,Mrs Babatolu,13:21,13:51,15:51,Gone,,,,,No Discount,,Cash,Delivered,13:34,13,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+17/06/2000 00:00,Mrs Okinshanu,09:25,09:55,10:55,Gone,,,,,No Discount,,Cash,Delivered,09:37,12,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Akobo
+17/08/2022 00:00,Israel Oluwatobi,17:03,17:33,18:33,Gone,,,,,No Discount,,Transfer,Delivered,17:21,18,Old Customer,,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+16/07/2022 00:00,Mum Dorcas,09:00,09:30,10:30,Gone,,,,,No Discount,,Transfer,Delivered,09:52,52,Old Customer,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,3900,UI
+07/05/2022 00:00,Mrs Joy,12:32,13:02,15:02,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Aleshinloye
+11/07/2022 00:00,Lawrence DSR,13:33,14:03,15:03,,,,,,No Discount,,Cash,Pickup,,,Bicycle Op,,,,,,1,,,,1,,,,,,,,,,,,1,,1,,,,,,,,,,,,,5200,Bashorun
+05/07/2022 00:00,Oladele Olasumbo Oyinlola,08:37,09:07,10:07,Gone,,,,,No Discount,,Transfer,Delivered,09:02,25,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,UI
+10/05/2022 00:00,Mummy Michael,10:27,10:57,11:57,Yet to Go,No Rider,Called Customer,11:57,12:57,No Discount,,Cash,Delivered,02:27,240,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6890,UI
+23/08/2022 00:00,Omololu Adedoyin,16:23,16:53,18:53,Gone,,,,,No Discount,,Transfer,Delivered,17:00,37,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,4940,Aleshinloye
+26/04/2022 00:00,Mr Niran,04:57,05:27,07:27,Gone,,,,,No Discount,,Cash,Delivered,05:25,28,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Apata
+06/05/2022 00:00,flakky,11:23,11:53,13:53,Gone,,,,,,,Transfer,Delivere,12:23,60,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+02/08/2022 00:00,Mrs Adenike,09:55,10:25,11:25,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,4,,,,,,,,,,2,,,,,,,,,,,,,,,,11700,Bashorun
+19/07/2022 00:00,Adedeji Abosede,13:59,14:29,16:29,Gone,,,,,No Discount,,Cash,Delivered,14:12,13,Old Customer,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,3900,Aleshinloye
+23/04/2022 00:00,Mrs Falope,09:00,09:30,11:30,Gone,,,,,No Discount,,,Delivered,10:12,72,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Felele
+29/08/2022 00:00,Opemipo,14:49,15:19,17:19,Gone,,,,,No Discount,,Transfer,Delivered,15:04,15,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,5330,Felele
+11/06/2022 00:00,Yinka Savage,15:01,15:31,17:31,Gone,,,,,No Discount,,Cash,Delivered,16:15,74,Old Customer,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2275,Aleshinloye
+29/06/2022 00:00,Tolu,16:50,17:20,19:20,Gone,,,,,No Discount,,Transfer,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3380,Aleshinloye
+03/09/2022 00:00,Ike ,16:54,17:24,18:24,Gone,,,,,No Discount,,Cash,Delivered,17:07,13,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,3770,Akobo
+28/05/2022 00:00,Mrs Adeleke,10:06,10:36,12:36,Gone,,,,,No Discount,,Cash,Delivered,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2730,Aleshinloye
+05/09/2022 00:00,Mrs Popoopla,16:55,17:25,18:25,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Apata
+06/09/2022 00:00,Adetola Lukmon Temidayo,14:35,15:05,16:05,Gone,,,,,No Discount,,Transfer,Delivered,14:50,15,Old Customer,,,,,1,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,4680,Felele
+02/06/2022 00:00,Mrs Borokini,17:37,18:07,19:07,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Akobo
+28/05/2022 00:00,Bayo,12:44,13:14,14:14,,,,,,Promo,6750,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2210,Bashorun
+20/04/2022 00:00,Grandma Oluwamojure,11:21,11:51,12:51,,,,,,,,,Delivered,12:23,62,Old Customer,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,1950,UI
+24/08/2022 00:00,Mrs Lisoyi Ajibola,16:37,17:07,18:07,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,4680,Onikolobo
+10/06/2022 00:00,,13:01,13:31,15:31,Gone,,,,,No Discount,,Cash,Delivere,14:24,83,Old Customer,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Felele
+17/06/2022 00:00,Shekirat,11:52,12:22,13:22,Gone,,,,,No Discount,,Transfer,Picku,,,New Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,UI
+09/07/2022 00:00,Mr Samuel,15:08,15:38,16:38,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,UI
+15/04/2022 00:00,Dami,03:07,03:37,04:37,Gone,,,,,,,,Delivered,04:10,63,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10530,Bashorun
+10/05/2022 00:00,Mrs Sobola,13:20,13:50,15:50,Gone,,,,,No Discount,,Transfer,Delivered,13:25,5,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3640,Alakia
+30/05/2022 00:00,Tee Ola's Food,11:05,11:35,13:35,Gone,,,,,No Discount,,Transfer,ickup,,,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Felele
+01/06/2022 00:00,Mrs Adeyemo,12:20,12:50,14:50,Gone,,,,,No Discount,,Cash,Delivered,13:03,43,Old Customer,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,19630,Felele
+18/08/2022 00:00,Adeniran Oyindamola,13:45,14:15,15:15,Yet to Go,No Rider,called the customer,15:15,16:15,No Discount,,Cash,Delivered,16:01,136,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,2340,Apete
+01/09/2022 00:00,jimoh kemisola,16:44,17:14,18:14,Gone,,,,,No Discount,,Transfer,Delivered,18:03,79,Old Customer,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,2340,Ologuneru
+10/08/2022 00:00,Ganiyu Adekunle,16:45,17:15,19:15,Gone,,,,,No Discount,,Cash,Delivered,17:11,26,New Customer,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Felele
+23/08/2022 00:00,Samuel Seyi,14:23,14:53,15:53,Gone,,,,,No Discount,,Cash,Delivered,14:35,12,Old Customer,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,1170,Bashorun
+06/07/2022 00:00,Medinat,11:58,12:28,14:28,Yet to Go,No Rider,Called Customer,13:28,15:28,No Discount,,Cash,Delivered,14:00,122,Old Customer,1,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3900,Felele
+04/08/2022 00:00,KieKie Ambitious,10:15,10:45,11:45,Gone,,,,,No Discount,,Cash,Delivered,10:35,20,Old Customer,,,,,,1,,,,,,,,,1,,,,,,,,1,,,,,,,,,,,,,,5850,Bashorun
+03/06/2022 00:00,Moyinoluwa,13:22,13:52,15:52,Gone,,,,,No Discount,,Cash,Delivered,14:46,84,New Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,Aleshinloye
+30/04/2022 00:00,Ola,12:54,13:24,15:24,Gone,,,,,,,Cash,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5850,Olorunsogo
+11/07/2022 00:00,Bola,16:44,17:14,19:14,Gone,,,,,No Discount,,Cash,Delivered,,,New Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Olorunsogo
+15/07/2001 00:00,Mr Opeyemi,11:47,12:17,14:17,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,1,,,,,,,1,,,,1,,,,,,,,,,,,,,6500,Aleshinloye
+06/09/2022 00:00,Ayomide DSR,,,,,,,,,No Discount,,Cash,Pickup,,,Bicycle Op,,,,,1,2,2,,,,,,,,,1,2,,,,,3,,,,,,,,,,,,,,,12870,Akobo
+29/04/2022 00:00,Adedoyinsola,03:52,04:22,06:22,Yet to Go,Time Specified by Customers,,05:22,07:22,No Discount,,Transfer,Rescheduled,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6890,Felele
+07/06/2022 00:00,Mrs Kemi,14:57,15:27,16:27,,,,,,No Discount,,Transfer,Delivered,14:52,5,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6370,Bashorun
+04/05/2022 00:00,Ewa,11:04,11:34,12:34,Gone,,,,,,,Transfer,Delivered,11:54,50,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Bashorun
+11/08/2022 00:00,Bukola,13:40,14:10,15:10,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1170,Bashorun
+15/06/2022 00:00,Sales Point Power House,18:42,19:12,20:12,,,,,,No Discount,,Cash,Pickup,,,OFC,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,2275,Bashorun
+12/08/2022 00:00,Omolara,16:33,17:03,19:03,,,,,,No Discount,,Cash,Pickup,,,New Customer,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Omi-Adio
+28/06/2022 00:00,Mrs Ibironke,09:00,09:30,10:30,Gone,,,,,No Discount,,Cash,Delivered,09:31,31,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+14/06/2022 00:00,Rheostyles,15:00,15:30,17:30,Gone,,,,,No Discount,,Cash,Delivered,15:11,11,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2730,Alakia
+28/06/2022 00:00,Aderinoye Tosin,13:00,13:30,15:30,Gone,,,,,Birthday,2650,Transfer,Delivered,13:28,28,Old Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,6045,Apata
+19/04/2022 00:00,Taiwo Adewusi,03:57,04:27,06:27,Gone,,,,,,,,Delivered,05:32,95,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12350,Aleshinloye
+04/06/2022 00:00,olatunji Adeyemi,08:35,09:05,10:05,Gone,,,,,No Discount,,Cash,Delivered,10:15,100,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,Ologuneru
+28/06/2025 00:00,Thompson Akinbinu,14:30,15:00,17:00,Gone,,,,,No Discount,,Cash,Delivered,14:46,16,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6240,Aleshinloye
+09/06/2022 00:00,Mrs Doyin Victor,13:01,13:31,15:31,Gone,,,,,No Discount,,Transfer,Delivered,13:21,20,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Aleshinloye
+24/06/2022 00:00,Mr Oyeniyi,14:34,15:04,17:04,,,,,,No Discount,,POS,Pickup,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1300,Aleshinloye
+27/07/2022 00:00,Mrs Olajumoke,17:30,18:00,19:00,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,1,,,1,,,,1,1,1,,,1,,1,,,,,,,,,,,12870,Bashorun
+01/08/2022 00:00,Mrs Omololu,16:13,16:43,18:43,Gone,,,,,No Discount,,Transfer,Delivered,16:38,25,Old Customer,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+21/04/2022 00:00,Mrs Adelana,12:21,12:51,14:51,,,,,,No Discount,,,Pickup,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Apata
+28/04/2022 00:00,King Lolu,04:15,04:45,05:45,Gone,,,,,,,Transfer,Delivered,05:44,89,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+23/04/2022 00:00,Mr Sola,09:49,10:19,11:19,Yet to Go,Unable to Reach Customer,Not responding to calls and texts,11:19,12:19,,,,Cancelled,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,UI
+27/06/2022 00:00,Amao Temilola,16:04,16:34,17:34,,,,,,No Discount,,Transfer,,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,4810,Bashorun
+29/07/2022 00:00,Mrs Oyeleke,08:56,09:26,11:26,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2340,Felele
+25/08/2022 00:00,Balogun Amusu,12:44,13:14,15:14,Gone,,,,,No Discount,,Cash,Delivered,12:56,12,Old Customer,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,2340,Alakia
+25/06/2022 00:00,Mrs Dayo-Oke,15:12,15:42,16:42,Gone,,,,,No Discount,,Transfer,Delivered,15:31,19,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Bashorun
+07/07/2022 00:00,Mummy Kolade,08:48,09:18,11:18,Gone,,,,,No Discount,,Transfer,Delivered,09:15,27,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Aleshinloye
+10/08/2022 00:00,Oluwatoyin,15:50,16:20,17:20,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Apete
+08/08/2022 00:00,Mrs Opakunle,14:02,14:32,16:32,Gone,,,,,Birthday,900,Transfer,Delivered,14:40,38,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,Apata
+13/05/2022 00:00,No name,12:24,12:54,13:54,Gone,,,,,No Discount,,Cash,Delivered,12:24,0,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6110,Bashorun
+23/06/2022 00:00,Mum Dara,10:33,11:03,13:03,Gone,,,,,No Discount,,Cash,Delivered,10:57,24,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Alakia
+17/06/2022 00:00,Junaid barakat,09:50,10:20,12:20,Gone,,,,,No Discount,,Cash,Delivered,10:10,20,Old Customer,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Olorunsogo
+11/06/2022 00:00,Mrs Esan,14:51,15:21,17:21,,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Omi-Adio
+25/08/2022 00:00,Bisi,13:15,13:45,15:45,Gone,,,,,No Discount,,Transfer,Delivered,13:41,26,Old Customer,,,,,,,,1,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,4680,Felele
+05/09/2022 00:00,herry cherry world ,16:53,17:23,18:23,Gone,,,,,No Discount,,Cash,Delivered,17:21,28,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Ologuneru
+24/08/2022 00:00,Mrs Olumoh,14:50,15:20,17:20,Gone,,,,,No Discount,,Cash,Delivered,15:14,24,Old Customer,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+11/06/2022 00:00,Fadahunsi Odunayo,15:12,15:42,16:42,Gone,,,,,No Discount,,Transfer,Delivered,15:44,32,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+27/08/2022 00:00,Mayowa,12:15,,,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Abiola Way
+25/04/2022 00:00,Mrs Adeosun,11:00,11:30,13:30,Yet to Go,No Rider,Called customer,12:30,13:30,No Discount,,Transfer,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9360,Alakia
+22/07/2022 00:00,Dr. Banire,,,,Gone,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,3900,Apete
+20/08/2022 00:00,ifetayo  Abiola,15:30,16:00,17:00,Gone,,,,,No Discount,,Transfer,Delivered,16:21,51,Old Customer,,,,,,,,1,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,3510,Ologuneru
+06/08/2022 00:00,Temitope,10:57,11:27,13:27,Gone,,,,,No Discount,,Cash,Delivered,11:15,18,Old Customer,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,4680,Felele
+10/09/2022 00:00,Mrs Adeoye,15:36,16:06,17:06,,,,,,No Discount,,Cash,Pickup,,,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Omi-Adio
+10/05/2022 00:00,Dr Funmi idowu,04:59,05:29,07:29,,,,,,No Discount,,Transfer,Delivered,06:42,103,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6370,Aleshinloye
+06/09/2022 00:00,Holarbabs,15:42,16:12,17:12,,,,,,No Discount,,Cash,Pickup,,,New Customer,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Omi-Adio
+20/08/2022 00:00,Oreoluwa,09:00,09:30,10:30,Gone,,,,,No Discount,,Transfer,Delivered,09:24,24,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,3640,Onikolobo
+24/06/2022 00:00,Mr Lagbaye,11:58,12:28,14:28,Yet to Go,,,13:28,15:28,No Discount,,Cash,Rescheduled,18:27,,New Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,4485,Olorunsogo
+27/05/2022 00:00,Mrs Sulaimon,16:41,17:11,19:11,Gone,,,,,No Discount,,Cash,Delivered,18:49,128,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+01/06/2022 00:00,Eimunjeze Anthony,14:46,15:16,16:16,Yet to Go,No Rider,called,16:16,17:16,No Discount,,Cash,Delivered,16:26,100,Old Customer,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,UI
+20/07/2022 00:00,Mum David,16:00,16:30,18:30,Yet to Go,Time Specified by Customers,,17:30,18:30,No Discount,,Cash,Delivered,16:50,50,Old Customer,,,,,,1,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,3900,Alakia
+08/07/2022 00:00,Mŕs Awosakin,10:47,11:17,13:17,Gone,,,,,No Discount,,Cash,Delivered,11:15,28,Old Customer,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,3900,Apata
+30/06/2022 00:00,Treshfort,13:00,13:30,15:30,Gone,,,,,No Discount,,Transfer,Delivered,13:51,51,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2210,Alakia
+04/06/2022 00:00,Anthonia,08:30,09:00,11:00,Gone,,,,,No Discount,,Cash,Delivered,09:18,48,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3185,Alakia
+25/07/2022 00:00,Anieodiong,10:20,10:50,11:50,Gone,,,,,No Discount,,Transfer,Delivered,10:31,11,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,UI
+05/07/2022 00:00,Mrs Bunmi,17:02,17:32,19:32,Gone,,,,,No Discount,,POS,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1300,Felele
+02/08/2022 00:00,Ajisefinni,15:36,16:06,18:06,Gone,,,,,No Discount,,Cash,Delivered,15:50,14,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Apata
+25/05/2022 00:00,Olusola,14:51,15:21,16:21,Gone,,,,,No Discount,,Transfer,Delivered,15:09,18,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,UI
+18/06/2022 00:00,Mama Kay Store,15:21,15:51,17:51,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Alakia
+13/05/2022 00:00,Becky,10:51,11:21,13:21,Gone,,,,,No Discount,,Transfer,Delivered,01:26,155,Old Customer,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7280,Apata
+25/06/2022 00:00,Mrs Fasakin Olukemi,11:20,11:50,13:50,Gone,,,,,No Discount,,Transfer,Delivered,12:20,60,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+03/05/2022 00:00,Mr Segun,09:00,09:30,10:30,Yet to Go,No Rider,Arranged for Riders and called customer,10:30,11:30,,,Cash,Delivered,10:17,77,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+23/04/2022 00:00,Mr Abiodun Oladeji,10:07,10:37,12:37,Yet to Go,No Rider,called the rider,11:37,13:37,No Discount,,,Delivered,11:50,103,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7020,Felele
+14/05/2022 00:00,Tamz,03:40,04:10,05:10,Gone,,,,,No Discount,,Transfer,Delivered,04:02,22,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bashorun
+30/07/2022 00:00,Mum Wasilat,08:28,08:58,10:58,Gone,,,,,No Discount,,Cash,Delivered,09:30,62,Old Customer,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Felele
+24/08/2022 00:00,Prof.owosina,16:05,16:35,17:35,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Onikolobo
+18/08/2022 00:00,Kaydee,13:57,14:27,16:27,Gone,,,,,No Discount,,Cash,Delivered,14:32,35,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Olorunsogo
+21/05/2022 00:00,Aderonke,15:14,15:44,16:44,Yet to Go,No Rider,,16:44,17:44,No Discount,,Cash,Cancelled,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,UI
+03/06/2022 00:00,Abioye Yemi,12:22,12:52,13:52,Yet to Go,No Rider,,13:52,14:52,No Discount,,Cash,Delivered,14:07,105,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+29/08/2022 00:00,Deborah,09:11,09:41,11:41,Yet to Go,No Rider,called customer,10:41,11:41,No Discount,,Cash,Delivered,10:18,67,Old Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,1,,3640,Alakia
+28/06/2022 00:00,,14:38,15:08,16:08,,,,,,No Discount,,Transfer,Delivered,14:52,14,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Bashorun
+22/05/2022 00:00,kemi ABbogunrin,14:00,14:30,16:30,Yet to Go,Product not Available,,15:30,16:30,No Discount,,Cash,Cancelled,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Aleshinloye
+07/07/2022 00:00,Oluwakemi,14:34,15:04,16:04,Gone,,,,,No Discount,,Cash,Delivered,15:06,32,Old Customer,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,2600,UI
+29/07/2022 00:00,Mrs Osho Seun,08:37,09:07,10:07,Gone,,,,,No Discount,,Cash,Delivered,09:04,27,Old Customer,,,,,,,,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,7020,UI
+14/04/2022 00:00,Mrs Owoeye,12:12,12:42,14:42,Gone,,,,,No Discount,,,Delivered,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Apata
+08/09/2022 00:00,Daddy Karimo,15:25,15:55,16:55,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,2275,Omi-Adio
+13/08/2022 00:00,Afolabi racheal,11:45,12:15,13:15,Gone,,,,,No Discount,,Cash,Delivered,12:10,25,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,3510,Ologuneru
+03/06/2022 00:00,Ola,13:22,13:52,15:52,Yet to Go,Product not Available,Customer was conviced to another products,14:52,16:52,No Discount,,Cash,Delivered,13:56,34,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6760,Olorunsogo
+20/08/2022 00:00,Mummy Debby,17:10,17:40,19:40,,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Omi-Adio
+07/09/2022 00:00,Joan,09:40,10:10,11:10,Gone,,,,,No Discount,,Cash,Delivered,10:00,20,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,2340,Ologuneru
+05/05/2022 00:00,Mrs Mojeed,11:05,11:35,12:35,Gone,,,,,,,Transfer,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4680,Bashorun
+31/05/2022 00:00,Abey,17:25,17:55,18:55,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Bashorun
+01/08/2022 00:00,Iyawo,09:45,10:15,11:15,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bashorun
+28/07/2022 00:00,Oladayo Ayomide,13:39,14:09,16:09,Gone,,,,,No Discount,,Transfer,Delivered,14:18,39,Old Customer,,,,,,,,,,,,,,,,,,,,1,,,,,,1,,,,,,,,,,,3510,Felele
+20/04/2022 00:00,Miss Turayo,09:17,09:47,11:47,Gone,,,,,No Discount,,,Delivered,10:07,50,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6370,Felele
+11/07/2022 00:00,Tabitha,15:53,16:23,17:23,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,1,,1,,,,,,,,,,,5200,Ologuneru
+23/04/2022 00:00,Bose,02:51,03:21,04:21,,,,,,,,,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Bashorun
+24/06/2022 00:00,Mummy Ife,16:02,16:32,18:32,,,,,,No Discount,,Cash,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4615,Omi-Adio
+02/09/2022 00:00,Adeolu,15:37,16:07,17:07,Gone,,,,,No Discount,,Transfer,Delivered,16:05,28,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,2340,Alakia
+02/09/2022 00:00,Mrs tunwagun peace,12:44,13:14,14:14,Gone,,,,,No Discount,,Transfer,Delivered,13:05,21,Old Customer,,,,,,1,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,3510,Ologuneru
+20/07/2022 00:00,Ammansco,17:05,17:35,18:35,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,3900,UI
+30/07/2022 00:00,Abiodun Omoniyi,12:54,13:24,15:24,Gone,,,,,No Discount,,Cash,Delivered,13:09,15,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Felele
+30/04/2022 00:00,Komoafe,02:02,02:32,03:32,Gone,,,,,,,Cash,Delivered,Unspecified,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Bashorun
+08/06/2022 00:00,Mrs Adekunle,16:56,17:26,18:26,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+03/06/2022 00:00,Maja Taiwo,11:06,11:36,12:36,,,,,,No Discount,,Transfer,Pickup,,,New Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,Akobo
+30/06/2000 00:00,Oluwaiye Temidayo,14:40,15:10,17:10,Gone,,,,,No Discount,,Transfer,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4940,Aleshinloye
+21/06/2022 00:00,Yappy,16:17,16:47,17:47,Gone,,,,,No Discount,,Transfer,Delivered,16:35,18,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7020,Akobo
+20/06/2022 00:00,Ojo Samuel,16:56,17:26,19:26,Gone,,,,,No Discount,,Cash,Delivered,17:48,52,Old Customer,,,1,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,2600,Felele
+04/07/2022 00:00,Mrs Awosika,14:02,14:32,16:32,Yet to Go,No Rider,Informed the customer,15:32,16:32,No Discount,,Transfer,Delivered,15:00,58,Old Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1300,Apata
+27/06/2022 00:00,Gbadebo Olubukola Victory,13:50,14:20,16:20,Gone,,,,,No Discount,,Transfer,Delivered,15:02,72,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14820,Aleshinloye
+16/05/2022 00:00,Mrs Queen,03:36,04:06,05:06,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Bashorun
+23/06/2022 00:00,Mrs Oyekunle,13:53,14:23,16:23,Gone,,,,,No Discount,,Transfer,Delivered,14:07,14,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Felele
+05/07/2022 00:00,Mrs Funmilayo Ajibade,16:06,16:36,17:36,Gone,,,,,No Discount,,Cash,Delivered,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5200,Ologuneru
+18/05/2022 00:00,titilope,10:56,11:26,13:26,Yet to Go,Time Specified by Customers,,12:26,13:26,No Discount,,Transfer,Delivered,13:22,146,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Aleshinloye
+19/05/2022 00:00,Kayode Temilade,13:09,13:39,15:39,Gone,,,,,No Discount,,Cash,Delivered,13:33,24,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6045,Alakia
+30/04/2022 00:00,Okojie,12:50,13:20,14:20,Yet to Go,No Rider,,14:20,15:20,,,Transfer,Delivered,Unspecified,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,Bashorun
+06/09/2022 00:00,Bolaji Busari,09:22,09:52,10:52,Gone,,,,,No Discount,,Transfer,Delivered,09:45,23,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,5330,Felele
+03/08/2022 00:00,Dr Hassan,13:02,13:32,15:32,Gone,,,,,No Discount,,Transfer,Delivered,13:30,28,Old Customer,,1,,1,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Felele
+29/07/2022 00:00,Funmi Kajero,14:46,15:16,16:16,Gone,,,,,No Discount,,Transfer,Delivered,15:05,19,Old Customer,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,2340,Bashorun
+17/08/2022 00:00,Mrs Oyedemi,15:26,15:56,17:56,Gone,,,,,No Discount,,Cash,Delivered,15:53,27,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,2340,Aleshinloye
+22/04/2022 00:00,Gaius Yetunde,09:11,09:41,11:41,Gone,,,,,,,,Delivered,10:08,57,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5395,Aleshinloye
+27/05/2022 00:00,Rachel,09:32,10:02,11:02,Gone,,,,,No Discount,,Cash,Delivered,10:20,48,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2470,UI
+25/06/2022 00:00,Alhaja Wahab,11:22,11:52,13:52,Yet to Go,No Rider,Called customer,12:52,13:52,No Discount,,Transfer,Delivered,12:55,93,Old Customer,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4485,Alakia
+29/08/2022 00:00,Mummy Tobi,12:27,12:57,14:57,Gone,,,,,No Discount,,Cash,Delivered,12:50,23,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,1,2340,Felele
+01/09/2022 00:00,Ire,11:40,12:10,13:10,Gone,,,,,No Discount,,POS,Pickup,,,New Customer,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,1170,Apete
+27/08/2022 00:00,Timothy DSR,11:34,12:04,14:04,Gone,,,,,No Discount,,Cash,Pickup,,,Bicycle Op,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1170,Felele
+06/06/2022 00:00,Aanuoluwapo,10:35,11:05,13:05,Gone,,,,,No Discount,,Transfer,Delivered,12:05,90,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6890,Alakia
+01/09/2022 00:00,joan,17:00,17:30,18:30,Yet to Go,Time Specified by Customers,,,,No Discount,,Cash,Delivered,17:25,25,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,8320,Ologuneru
+21/06/2022 00:00,Mrs Obagbemi,10:51,11:21,13:21,Gone,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Felele
+25/06/2022 00:00,Mummy Haliyah,14:05,14:35,15:35,Gone,,,,,No Discount,,Cash,Delivered,14:19,14,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4485,UI
+26/05/2022 00:00,Miss Afode,12:09,12:39,14:39,Gone,,,,,No Discount,,Cash,Delivered,13:12,63,New Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1430,Olorunsogo
+13/07/2022 00:00,Mrs Akanni,09:48,10:18,11:18,Gone,,,,,No Discount,,Cash,Delivered,10:05,17,Old Customer,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,5200,Akobo
+09/09/2022 00:00,Damilola DSR ,17:00,17:30,18:30,,,,,,No Discount,,Cash,Pickup,,,Bicycle Op,,,,,1,,,,,,,,,,,,,,,,,2,,,,1,,,,,,,,,,,4680,Alakia
+19/07/2022 00:00,Becky,13:36,14:06,16:06,Gone,,,,,No Discount,,Cash,Delivered,13:59,23,Old Customer,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,2600,Apata
+22/04/2022 00:00,Mummy Desire,08:12,08:42,09:42,Yet to Go,Product not Available,"Called Customer, She rescheduled.",09:42,10:42,,,,Delivered,03:21,429,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18980,Bashorun
+16/04/2022 00:00,Mrs Aremu,02:34,03:04,04:04,,,,,,,,,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5980,Bashorun
+27/08/2022 00:00,Mummy Hussein,14:00,14:30,16:30,Gone,,,,,No Discount,,Cash,Delivered,16:48,168,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Olorunsogo
+29/07/2022 00:00,Oluyinka Aborishade,13:22,13:52,15:52,Gone,,,,,No Discount,,Cash,Delivered,13:44,22,Old Customer,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2340,Felele
+18/06/2022 00:00,Folashade Ojetunji,09:42,10:12,12:12,Gone,,,,,No Discount,,Cash,Delivered,10:24,42,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9100,Apata
+14/04/2022 00:00,Temitayo,02:45,03:15,04:15,Yet to Go,,called Rider & customer,04:15,05:15,,,,Delivered,05:21,156,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,UI
+11/06/2022 00:00,Mrs Akinyemi esther,13:30,14:00,15:00,Gone,,,,,No Discount,,Cash,Delivered,13:46,16,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Ologuneru
+26/07/2022 00:00,Agbi Temitope,14:50,15:20,16:20,Gone,,,,,No Discount,,Cash,Delivered,15:10,20,Old Customer,,,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,2340,Akobo
+19/08/2022 00:00,Mr Saheed,16:33,17:03,19:03,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,1170,Aleshinloye
+10/09/2023 00:00,Mrs Yetunde Adewunmi,16:25,16:55,17:55,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,6045,Apata
+13/08/2022 00:00,Mrs Ajaguna,13:45,14:15,16:15,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,1,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,3510,Apata
+05/08/2022 00:00,Igwe,16:54,17:24,19:24,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,2,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Alakia
+29/07/2022 00:00,Ibrahim,,,,Gone,,,,,No Discount,,POS,Pickup,,,New Customer,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,2340,Akobo
+13/07/2022 00:00,Adeniran Taiwo mercy,10:36,11:06,13:06,Gone,,,,,No Discount,,Transfer,Delivered,10:48,12,Retail,,3,,,,,,,,,10,,,,4,,,,,2,,,,,,,,,,,,,,,,,49920,Apata
+17/06/2022 00:00,Odugbemi,18:06,18:36,20:36,,,,,,No Discount,,POS,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4810,Apata
+06/05/2022 00:00,Adesola Ajani,11:43,12:13,13:13,Gone,,,,,,,Cash,Delivered,12:46,63,Old Customer,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,3770,UI
+28/05/2022 00:00,Mr Oladapo,13:20,13:50,15:50,,,,,,No Discount,,Transfer,Pickup,,,Old Customer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3510,Alakia
